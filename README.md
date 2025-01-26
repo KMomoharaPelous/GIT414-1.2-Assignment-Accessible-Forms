@@ -14,5 +14,7 @@ Assignment Instructions:
    - Element where users can enter comments
    - Ability to submit the form
    - Form should be keyboard navigable/accessible
-   - Include any necessart attributes to the elements and associate all labels with proper elements
-   - Form should use POST method
+   - Include any necessary attributes to the elements and associate all labels with proper elements
+   - Form should use the POST method
+
+## View the live page here: [GIT 414 Assignment 1.2 - Accessible Forms](https://kmomoharapelous.github.io/GIT414-1.2-Assignment-Accessible-Forms/)
